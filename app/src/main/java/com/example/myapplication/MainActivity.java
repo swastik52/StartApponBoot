@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
         MainActivity m = new MainActivity();
         Log.d("asa", "onCreate: "+m.get());
+        Log.d("modifed by jagat das");
     }
 }
